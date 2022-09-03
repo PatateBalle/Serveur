@@ -1,0 +1,40 @@
+
+
+.login-form {
+    width: 340px;
+    margin: 50px auto;
+}
+.login-form form {
+    margin-bottom: 15px;
+    right: 120px;
+    background: #000000;
+    color: white;
+    opacity: 70%;
+    border-radius: 12.5px;
+    height: 650px;
+    padding: 30px;
+}
+.login-form h2 {
+    margin: 0 0 15px;
+}
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button {
+    border-radius: 100px;
+    
+}
+
+p {
+    background-color: rgb(0, 0, 0);
+    border-style: inset;
+    height: 52px;;
+    margin: 12.5px auto;
+    border-radius: 16px;
+}
